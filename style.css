@@ -1,0 +1,194 @@
+
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: black;
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   padding-top: 250px;
+   padding-left: 50px;
+
+
+
+}
+
+
+
+/*my website*/
+
+
+  #wrapper {
+		width:750px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: #86BBD8;
+}
+
+	H1{
+		color:#35495E;
+		font-size: 65px;
+		text-align: center;
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		margin-bottom: 20px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	  
+			
+			
+	}
+
+#masthead{
+	
+	background-color:#E0FBFC; 
+}
+
+#title{
+	margin-right: 50px;
+}
+
+
+
+#logo{
+	
+	float:left;
+	margin-top: -30px;
+	
+}	
+
+
+
+
+	h2{
+		
+		color:#778DA9;
+		font-size: 30px;
+		border: solid 2px #7389AE; 
+		background-color: #E0FBFC;
+		text-align: center;
+		padding-top: -60px;
+		padding-right: -60px;
+		
+}
+	
+
+	
+
+	p { 
+	    color: #10376A;
+		text-align:center;
+		margin-left: 20px;
+		margin-right: 20px;
+		font-size:18px;
+		
+		
+		
+		
+/*this is for the text on each page on top*/	
+	}
+
+#info{
+	padding-top: 20px;
+	margin-bottom:-35px;
+}
+/*this is for the text on each page on top*/
+
+
+
+
+
+#nav{
+	   
+	background-color: #D1EEFC;
+	text-align: center;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin-top:-19px;
+    margin-bottom:-25px;
+	border-top:solid 2px #7389AE;
+	border-bottom: solid 2px #7389AE;
+	
+	
+}
+
+li{
+	display:inline;
+	padding-right: 30px;
+
+
+}
+
+a{
+	text-decoration: none;
+	color: #282F40;
+	font-size: 19px;
+	
+	
+}
+
+
+	
+	body {
+		background-color: #C2DFE3;
+		padding-top: 100px;
+		
+	}
+
+
+
+#column{
+	background-color: #A2D8EF;
+	float: right;
+	width:250px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 25px;
+	height:528px;
+
+}
+
+
+
+
+#maincopy{
+	width:400px;
+	float:left;
+	margin-top: 23px;
+	
+	
+
+}
+
+
+
+#form{
+	margin-top:55px;
+	
+}
+
+
+
+#footer{
+	background-color: #D0F1FF;
+	clear:both;
+	padding-bottom: 2px;
+	
+}
+
+#address{
+	float:left;
+	margin-right:100px;
+	margin-left:110px;
+		
+}
+
+
+/*images for all the pages*/
+img{
+    margin-top:37px;
+    border: solid 4px #E1F2FE;
+	margin-left:70px
+}
+
